@@ -1,3 +1,4 @@
+![logo](https://github.com/karan0207/karan0207/blob/main/portfolio3.png)
 <h1 align="center">Hi 👋, I'm Karan Singh Chandel</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
