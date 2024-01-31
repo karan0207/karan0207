@@ -1,6 +1,6 @@
-![logo](https://github.com/karan0207/karan0207/blob/main/portfolio3.png)
+
 <h1 align="center">Hi 👋, I'm Karan Singh Chandel</h1>
-<h3 align="center">A passionate Software developer.</h3>
+<h3 align="center">A passionate Software developer and Community Manager|T.O.</h3>
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
@@ -10,9 +10,9 @@
 
 - My projects are available at [https://ekka.me/karan0207](https://ekka.me/karan0207)
 
-- Hobbies : [Exploring new Tech-Stack,Gaming,Animes]
+- Hobbies : [Organizing Tournament, Exploring new Tech-Stack,Gaming,Animes]
 
-- 💬 Ask me about **Mern Stack,Website development,Animated webpages**
+- 💬 Ask me about **Community management, Esport Tournament management, Mern Stack,Website development,Animated webpages**
 
 - 📫 How to reach me **karanchandel0207dev@gmail.com**
 
