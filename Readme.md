@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Karan Singh Chandel</h1>
-<h3 align="center">A passionate Software developer and Indie dev</h3>
+<h3 align="center">A passionate Software developer and Quality Assurance Analyst</h3>
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
-- 🌱 I’m currently using **React JS, Next JS, Typescript, Node and Express JS**
+- 🌱 I’m currently using **React JS, Next JS, Typescript, Node and Express JS, Playwright for game testing**
 
-- Interested Roles : **[Frontend | Backend | Web design | Fullstack | Devops]**
+- Interested Roles : **[QA | Community Manager | Software dev]**
 
-- My projects are available at [https://ekka.me/karan0207](https://ekka.me/karan0207)
+- My past projects are available at [https://ekka.me/karan0207](https://ekka.me/karan0207)
 
 - Hobbies : [ Exploring new Tech-Stack, Writing Tech Blogs, Gaming, Animes]
 
-- 💬 Ask me about **Software development, Platform Engineering, Web-development, Software as a Service**
+- 💬 Ask me about **Software development, Platform Engineering, Web-development, QA**
 
 - 📫 How to reach me **karanchandel0207dev@gmail.com**
 
