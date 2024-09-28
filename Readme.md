@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Karan Singh Chandel</h1>
-<h3 align="center">A passionate Software developer and Quality Assurance Analyst</h3>
+<h3 align="center">A passionate Software developer and Dev Advocate</h3>
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
