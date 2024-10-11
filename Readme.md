@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
-- 🌱 I’m currently using **React JS, Next JS, Typescript, Node and Express JS, Playwright for game testing**
+- 🌱 I’m currently using **React JS, Next JS, Typescript, Node and Express JS, Playwright for software testing**
 
 - Interested Roles : **[QA | Community Manager | Software dev]**
 
