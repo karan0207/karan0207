@@ -4,9 +4,9 @@
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
-- 🌱 I’m currently using **React JS, Next JS, Typescript, Node and Express JS, Playwright for software testing**
+- 🌱 I’m currently using ** Next JS, React JS, Typescript, Node, Express JS, Rust.**
 
-- Interested Roles : **[QA | Community Manager | Software dev]**
+- Interested Roles : **[Frontend, Backend, FullStack, DevRel]**
 
 - My past projects are available at [https://ekka.me/karan0207](https://ekka.me/karan0207)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Software development, Platform Engineering, Web-development, QA**
 
-- 📫 How to reach me **karanchandel0207dev@gmail.com**
+- 📫 How to reach me **karansinghchandel0207s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
