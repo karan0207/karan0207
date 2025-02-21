@@ -1,27 +1,27 @@
 
 <h1 align="center">Hi 👋, I'm Karan Singh Chandel</h1>
-<h3 align="center">A passionate Software developer and Dev Advocate</h3>
+<h3 align="center"> Software developer and DevRel Engineer, Open Source Contributor oss.gg</h3>
 
 <img align="right" width="400" alt="coding" src="https://media0.giphy.com/media/h408T6Y5GfmXBKW62l/200.webp?cid=ecf05e47ff71dsxyzkyz9h5ke94el1bjdrtrsm50c3g1hc8w&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
-- 🌱 I’m currently using **Next JS, React JS, Typescript, Node, Express JS, Rust.**
+- 🌱 Specialize in **Next JS, React JS, Typescript, Node, Express JS, Python.**
 
-- Interested Roles : **[Frontend, Backend, FullStack, DevRel]**
+- Working across : **[Frontend, Backend, FullStack, DevRel, web3]**
 
-- My past projects are available at [https://ekka.me/karan0207](https://ekka.me/karan0207)
+- My Portfolio is here [https://portfolio-karan1.vercel.app/](https://portfolio-karan1.vercel.app/)
 
-- Hobbies : [ Exploring new Tech-Stack, Writing Tech Blogs, Gaming, Animes]
+- Hobbies : [ Exploring new Tech-Stack, Writing Tech articles, Gaming, Animes]
 
-- 💬 Ask me about **Software development, Platform Engineering, Web-development, QA**
+- 💬 Ask me about **Software development, Web-development, OpenSource Community and SaaS**
 
 - 📫 How to reach me **karansinghchandel0207s@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karan_0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan_0207" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karan singh chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan singh chandel" height="30" width="40" /></a>
-<a href="https://instagram.com/karan0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan0207" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karan-0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan-0207" height="30" width="40" /></a>
+<a href="https://x.com/Karanschandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karan_0207" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karan-s-chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan singh chandel" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/karan0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan0207" height="30" width="40" /></a> -->
+<!-- <a href="https://www.leetcode.com/karan-0207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karan-0207" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
