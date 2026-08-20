@@ -119,20 +119,6 @@ const karan = {
 
 <br/>
 
-<!-- ─────────────────────────  CONTRIBUTIONS  ───────────────────────── -->
-
-## 🐍 Contributions
-
-<div align="center">
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karan0207/karan0207/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karan0207/karan0207/output/github-contribution-grid-snake.svg" />
-      <img src="https://raw.githubusercontent.com/karan0207/karan0207/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-    </picture>
-  </a>
-</div>
-<br/>
 <!-- ─────────────────────────  QUOTE  ───────────────────────── -->
 
 <br/>
@@ -151,7 +137,7 @@ const karan = {
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring a repo — it means a lot!
+### ⭐ If you like my work, consider starring a repo - it means a lot!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
 
